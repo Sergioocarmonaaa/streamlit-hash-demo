@@ -1,0 +1,2 @@
+Este es un pequeño archivo de ejemplo para probar el hashing incremental.
+Puedes modificar su contenido para comprobar que el hash cambia.
